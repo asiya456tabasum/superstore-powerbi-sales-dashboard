@@ -91,21 +91,24 @@ The dashboard was used to explore:
 
 ## Screenshots
 
+## Screenshots
+
 ### Sales Dashboard
 
-Sales Dashboard.png
+![Sales Dashboard](sales-dashboard.png)
 
 ### Detailed Sales Analysis
 
-![Detailed Sales Analysis](Detailed Sales Analysis.png)
+![Detailed Sales Analysis](detailed-sales-analysis.png)
 
 ### Customer Details
 
-![Customer Details](Customer Details.png)
+![Customer Details](customer-details.png)
 
 ### Data Model
 
-![Data Model](Data Model.png)
+![Data Model](data-model.png)
+
 
 ## Project Objective
 
