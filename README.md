@@ -95,19 +95,19 @@ The dashboard was used to explore:
 
 ### Sales Dashboard
 
-![Sales Dashboard](sales-dashboard.png)
+![Sales Dashboard](Sales%20dashboard.png)
 
 ### Detailed Sales Analysis
 
-![Detailed Sales Analysis](detailed-sales-analysis.png)
+![Detailed Sales Analysis](Detailed%20Sales%20Analysis.png)
 
 ### Customer Details
 
-![Customer Details](customer-details.png)
+![Customer Details](Customer%20Details.png)
 
 ### Data Model
 
-![Data Model](data-model.png)
+![Data Model](Data%20Model.png)
 
 
 ## Project Objective
